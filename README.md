@@ -1,2 +1,0 @@
-# Macon-tech
-WhatsApp bot.
